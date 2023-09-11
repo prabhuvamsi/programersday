@@ -1,0 +1,276 @@
+.pv1{
+	height:1060px;		
+	background-image:url('https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-repeat:no-repeat;
+	background-size:cover;
+	border:20px solid white;
+}
+.pv2{
+	text-align: center;
+	margin-top:345px;
+	color:white;
+	font-size:50px;
+	font-weight: bold;
+}
+.pv3{
+	width:120px;
+	height:35px;
+	background-color:lightgreen;
+	color:white;
+	border: 0px;
+}
+.pv4{
+	width:120px;
+	height:35px;
+	background-color:white;
+	color:grey;
+	border: 0px;
+	margin-left:10px;
+}
+.pv5{
+	background-color:#000080;
+/*	height:200px;*/
+	position:relative;
+	top:-80px;
+}
+.pv6{
+	font-size:90px;
+	margin-left:50px;
+	margin-top:70px;
+	margin-bottom:60px;
+}
+.pv7{
+	width:50%;
+	float:left;
+/*	background-color:pink;*/
+}
+.pv8{
+	width: 50%;
+	float:left;
+/*	background-color: green;*/
+    color:white;
+    margin-top:30px;
+}
+.pv9{
+	margin-top:44px;
+	margin-bottom: 0px;
+	font-size:25px;
+	color: white;
+}
+.pv10{
+	font-size:30px;
+	color: white;
+}
+.pv11{
+	text-align:center;
+	font-size: 50px;
+	font-weight:bold;
+	color: #152951;
+	margin-top:20px;
+
+}
+.pv12{
+	font-size:22px;
+	text-align: center;
+	font-family:roboto;
+	margin-bottom:30px;
+
+}
+.pv13{
+	font-size:60px;
+/*	margin-left:15px;*/
+	margin-bottom:20px;
+}
+.pv14{
+	margin-bottom:10px;
+	font-family:bold;
+	padding: 5px;
+}
+.pv15{
+	font-family:roboto;
+	font-size:15.5px;
+	padding:5px;
+}
+.pv16{
+	margin-top: 50px;
+}
+.pv17{
+	margin-top:50px;
+	text-align:center;
+	font-size: 40px;
+/*	font-family:bold;*/
+	font-weight:bold;
+	color: #152951;
+}
+.pv18{
+	width:90%;
+	height:500px;
+  box-shadow: 12px 12px 2px 1px  #808080;
+  margin-top:32px ;
+}
+.pv19{
+	font-weight: bold;
+	text-align:center;
+	color:#152951;
+	margin-top:20px;
+
+}
+.pv20{
+	font-size:20px;
+	margin-top:30px;
+
+}
+.pv21{
+	font-size:40px;
+	margin-top:5px;
+}
+p{
+	color: #666666;
+}
+.pv22{
+	font-size:30px;
+	margin-left:10px;
+}
+.pv23{
+	background-image:url('https://img.freepik.com/free-vector/circles-background-dark-tones_60389-166.jpg?w=1060&t=st=1694073752~exp=1694074352~hmac=f26de7d9b88a4f480c00a1062faf5e6d32294602fabd43812d458afb311d5fa6');
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:450px;
+	margin-top:20px;
+
+}
+.icon{
+	width:80px;
+	height:80px;
+	border-radius:50%;
+	margin-top:70px;
+	position:relative;
+	left:20px;
+}
+.pv24{
+	color:white;
+	text-align:center;
+}
+.pv25{
+	width:100%
+	height:100%; 
+	text-align: center;
+	font-size:20px;
+	margin-top:60px;
+}
+.icon1{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	margin-top:70px;
+	position:relative;
+	left:9px;
+
+
+}
+.icon2{
+	width:80px;
+	height:80px;
+	border-radius:50%;
+	margin-top:70px;
+	position:relative;
+	left:-2px;
+}
+.pv26{
+	text-align:center;
+	font-size: 50px;
+	font-weight:bold;
+	color: #152951;
+	margin-top:20px;
+
+}
+.pv27{
+	width:100%;
+}
+.question {
+ 	margin-bottom: 10px;
+ }
+
+.answer {
+	display: none;
+}
+
+.answer:target {
+ 	display: block;
+}
+.pv28{
+	margin-top:100px;
+}
+.pv29{
+	display:inline;
+}
+.pv30{
+	height:400px;
+	background-image:url('https://img.freepik.com/free-photo/dark-blue-plain-textured-background_53876-102466.jpg?w=996&t=st=1694093644~exp=1694094244~hmac=f0095390c92c9310acae40f361ee2c143e5c8fa4e7787ff1f8110691670cf208');
+}
+.pv31{
+	color:white;
+	font-size:50px;
+	font-weight:bold;
+	margin-top:120px;
+	margin-left:50px;
+}
+.pv32{
+	width:100%;
+	height:50px;
+	border-radius:10px;
+	border:0px;
+	margin-top:50px;
+	margin-left:10px;
+	text-align:center;
+}
+.pv33{
+	width:100%;
+	height:50px;
+	border-radius:10px;
+	border:0px;
+	margin-top:10px;
+	margin-left: 10px;
+	text-align:center;
+}
+.pv34{
+	height: 50px;
+	width:100%;
+	margin-left:10px;
+	color:white;
+	border-radius:10px;
+	background-color:#5c5c8a;
+}
+.pv35{
+	width:100%;
+}
+.pv36{
+	margin-left:8px;
+	color: #152951;
+}
+/*.pv37{
+	background-image:url('https://img.freepik.com/free-vector/gradient-geometric-shapes-dark-background_52683-33645.jpg?w=996&t=st=1694096476~exp=1694097076~hmac=6688c4fd706f1c9d9a38da93f2fa9b5b073cdda5a20107f0c77c5b1489b63859');
+	width:100%;
+	height:400px;
+}*/
+.pv38{
+	height:400px;
+	width:100%;
+
+}
+.pv39{
+	margin-top:120px;
+	color:#152951 ;
+
+}
+.pv40{
+	color:#152951;
+	margin-top:50px;
+
+}
+.pv41{
+	color:white;
+}
+.pv42{
+/*	margin-left:900px;*/
+}
